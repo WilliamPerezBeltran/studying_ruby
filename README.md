@@ -1,5 +1,3 @@
-
-
 # Studying ruby 
 Studying ruby is a recollection of information about ruby language with the only purpose of master ruby.
 Have fun. 
