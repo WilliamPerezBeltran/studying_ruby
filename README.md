@@ -7,13 +7,16 @@ Have fun.
 
 ## source of information 
 
+
 - [Source of information](#Source)
 
 ## Source
 
+- [ruby doc ](https://ruby-doc.org)
 - [theodinproject](https://www.theodinproject.com/courses/ruby-programming/lessons/basic-data-types?ref=lnav)
 - [launchschool](https://launchschool.com/books/ruby/read/introduction)
 - [ruby-for-beginners.rubymonstas](http://ruby-for-beginners.rubymonstas.org/)
+- [launchschool-index](https://www.theodinproject.com)
 
 ### Clone repo
 
