@@ -10,6 +10,12 @@ Have fun.
 
 ## Source
 
+- [hashes](http://nicholasjohnson.com/ruby/ruby-course/exercises/hashes-and-symbols/)
+- [poo](https://ruby-doc.com/docs/ProgrammingRuby/)
+- [ruby](https://www.tutorialspoint.com/ruby)
+- [de una bueno ](https://i-love-ruby.gitlab.io/)
+- [de una bueno ](https://i-love-ruby.gitlab.io/)
+- [modulos ](https://guias.makeitreal.camp/programacion-orientada-a-objetos-en-ruby/modulos)
 - [ruby doc ](https://ruby-doc.org)
 - [theodinproject](https://www.theodinproject.com/courses/ruby-programming/lessons/basic-data-types?ref=lnav)
 - [launchschool](https://launchschool.com/books/ruby/read/introduction)
@@ -29,3 +35,13 @@ $ cd studying_ruby
 https://www.theodinproject.com/tracks/full-stack-ruby-on-rails
 https://www.theodinproject.com/courses/ruby-programming/lessons/basic-data-types?ref=lnav
 https://www.theodinproject.com
+
+
+
+
+
+
+https://github.com/techops-recsys-lateral-hiring/developer-joyofenergy-ruby
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/introduction-to-rspec
+
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming

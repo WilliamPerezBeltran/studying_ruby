@@ -8,4 +8,10 @@ entire variable name.
 Example of a local variable declaration:
 
 """
+
+puts """
+
+variables locales
+
+"""
 var = 'I must be passed around to cross scope boundaries.'

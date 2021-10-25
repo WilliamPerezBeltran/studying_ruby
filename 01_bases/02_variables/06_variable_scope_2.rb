@@ -6,6 +6,8 @@ a = 5
 end
 
 puts a
+# puts b #=> turn an error ,,,06_variable_scope_2.rb:9:in `<main>': undefined local variable or method `b' for main:Object (NameError)
+
 # the result throw and error because the variable a is undefined 
 # because was not declare before as a global variable.
 

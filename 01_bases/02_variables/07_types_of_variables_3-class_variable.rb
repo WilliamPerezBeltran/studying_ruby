@@ -8,4 +8,12 @@ Class variables must be initialized at the class level, outside of any method de
 They can then be altered using class or instance method definitions.
 
 """
+
+puts """
+
+variables de clase
+
+"""
+
+
 @@instances = 0

@@ -9,4 +9,9 @@ until you know more about them.
 Example of an instance variable declaration:
 
 """
+puts """
+
+variables de instancia
+
+"""
 @var = 'I am available throughout the current instance of this class.'
