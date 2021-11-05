@@ -197,3 +197,6 @@ average_2 = readings_store['smart-meter-4'].map{|element| element['reading']}.in
 puts average_2 
 
 binding.pry
+
+
+[{"egrets" => 17}, {"egrets" => 21}].reduce({}, :merge)  
