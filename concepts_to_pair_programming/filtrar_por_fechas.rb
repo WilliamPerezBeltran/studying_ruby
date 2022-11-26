@@ -1,3 +1,4 @@
+require 'date'
 a= [{"time"=>"2021-10-26T18:42:35-05:00", "readings"=>2.570764725197214},
  {"time"=>"2021-10-26T17:42:35-05:00", "readings"=>1.8581415520655935},
  {"time"=>"2021-10-26T16:42:35-05:00", "readings"=>4.192703526255801},
@@ -723,7 +724,11 @@ a= [{"time"=>"2021-10-26T18:42:35-05:00", "readings"=>2.570764725197214},
 start_date = DateTime.iso8601(a[0]['time']) #=> <DateTime: 2021-10-26T17:47:58-05:00 ((2459514j,82078s,0n),-18000s,2299161j)>
 
 
-end_date=DateTime.iso8601(a[0]['time'])-7 #=> <DateTime: 2021-10-19T17:47:58-05:00 ((2459507j,82078s,0n),-18000s,2299161j)>
+end_date = DateTime.iso8601(a[0]['time'])-7 #=> <DateTime: 2021-10-19T17:47:58-05:00 ((2459507j,82078s,0n),-18000s,2299161j)>
 
 
-result=a.select{|element| ( DateTime.iso8601(element['time']) <= start_date and DateTime.iso8601(element['time']) >= end_date) ? true: false
+result = a.select{|element| ( DateTime.iso8601(element['time']) <= start_date and DateTime.iso8601(element['time']) >= end_date)}
+# result = a.select{|element| ( DateTime.iso8601(element['time']) <= start_date and DateTime.iso8601(element['time']) >= end_date) ? true : false}
+
+
+puts result

@@ -21,6 +21,7 @@ Have fun.
 - [launchschool](https://launchschool.com/books/ruby/read/introduction)
 - [ruby-for-beginners.rubymonstas](http://ruby-for-beginners.rubymonstas.org/)
 - [launchschool-index](https://www.theodinproject.com)
+- [retos ](https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all)
 
 ### Clone repo
 
@@ -45,3 +46,66 @@ https://github.com/techops-recsys-lateral-hiring/developer-joyofenergy-ruby
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/introduction-to-rspec
 
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming
+
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+
+
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+
+https://learnrubythehardway.org/book/
+
+
+
+
+
+
+
+
+
+
+
+==================
+
+http://nicholasjohnson.com/ruby/ruby-course/exercises/hashes-and-symbols/
+https://ruby-doc.com/docs/ProgrammingRuby/
+https://www.tutorialspoint.com/ruby
+https://i-love-ruby.gitlab.io/
+https://i-love-ruby.gitlab.io/
+https://guias.makeitreal.camp/programacion-orientada-a-objetos-en-ruby/modulos
+https://ruby-doc.org
+https://www.theodinproject.com/courses/ruby-programming/lessons/basic-data-types?ref=lnav
+https://launchschool.com/books/ruby/read/introduction
+http://ruby-for-beginners.rubymonstas.org/
+https://www.theodinproject.com
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://www.theodinproject.com/tracks/full-stack-ruby-on-rails
+https://www.theodinproject.com/courses/ruby-programming/lessons/basic-data-types?ref=lnav
+https://www.theodinproject.com
+https://github.com/techops-recsys-lateral-hiring/developer-joyofenergy-ruby
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/introduction-to-rspec
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+https://github.com/orgs/techops-recsys-lateral-hiring/repositories?type=all
+
+
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
+
+https://tutsplus.com/authors/rem-zolotykh?_ga=2.20981179.1244252864.1658804364-1340712098.1655931396
+https://tutsplus.com/authors/rem-zolotykh?_ga=2.20981179.1244252864.1658804364-1340712098.1655931396
+https://www.betterspecs.org/#subject
+
+https://dev.to/lazypro/building-ruby-on-rails-from-scratch-day-2-830
+https://mkdev.me/posts/how-to-write-an-mvc-framework-in-ruby
+https://code.tutsplus.com/courses/search/ruby
+https://code.tutsplus.com/courses/ruby-mvc-framework-from-scratch/lessons/introduction
