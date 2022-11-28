@@ -10,6 +10,8 @@ Have fun.
 
 ## Source
 
+- [Enumerable](https://ruby-doc.org/core-3.1.2/Enumerable.html)
+- Enumerables are a set of convenient built-in methods in Ruby that are included as part of both arrays and hashes. There are some iteration patterns that you’ll find yourself doing again and again, such as transforming, searching for, and selecting subsets of elements in your collections. Enumerables were designed to make implementing these iteration patterns (and therefore your life as a developer) much, much easier.
 - [hashes](http://nicholasjohnson.com/ruby/ruby-course/exercises/hashes-and-symbols/)
 - [poo](https://ruby-doc.com/docs/ProgrammingRuby/)
 - [ruby](https://www.tutorialspoint.com/ruby)

@@ -10,7 +10,7 @@
 # end
 
 # p reverse_odd()
-
+https://womanonrails.com/functional-programming-ruby
 
 def reverse_odd(sentence="hello world")
     hash_h ={}

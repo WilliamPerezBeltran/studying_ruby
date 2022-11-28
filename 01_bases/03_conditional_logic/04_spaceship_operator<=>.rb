@@ -8,3 +8,5 @@
 10 <=> 10   #=> 0
 10 <=> 5    #=> 1
 # The spaceship operator is most commonly used in sorting funct
+
+https://www.rubyguides.com/2016/06/ruby-ranges-how-do-they-work/#:~:text=What%20is%20a%20Range%20in,a%22%20to%20%22z%22%20.
