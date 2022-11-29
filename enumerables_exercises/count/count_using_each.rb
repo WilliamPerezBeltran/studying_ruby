@@ -29,7 +29,6 @@ class CountUsingEach
        tally += 1 if word.upcase == word
     end
     tally
-    # Your code goes here
     # assert_equal 3, tally
   end
 
@@ -67,7 +66,6 @@ class CountUsingEach
       tally +=1 if number.to_s.split(".")[1].to_i == 0
     end
     tally
-    # Your code goes here
     # assert_equal 2, tally
   end
 
@@ -79,7 +77,6 @@ class CountUsingEach
       tally +=1 if number.length == 4
     end
     tally
-    # Your code goes here
     # assert_equal 6, tally
   end
 
