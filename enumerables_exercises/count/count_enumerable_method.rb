@@ -1,57 +1,65 @@
+gem 'minitest'
+require 'minitest/autorun'
+require 'minitest/pride'
 
-class FindTest 
+class CountTest < Minitest::Test
 
-  def test_find_first_seven_letter_word
-    words = ["capricious", "berry", "unicorn", "bag", "apple", "festering", "pretzel", "pencil"]
-    words.find{|item| item.length == 7 }
-  end
-
-  def test_no_waldo
-    words = ["scarf", "sandcastle", "flag", "pretzel", "crow", "key"]
-    words.find{|item| item == "waldo"}
-  end
-
-  def test_find_waldo
-    words = ["noise", "dog", "fair", "house", "waldo", "bucket", "fish"]
-    words.find{|item| item == "waldo"}
-  end
-
-  def test_cannot_find_3_letter_words
-    words = ["piglet", "porridge", "bear", "blueberry"]
-    words.find{|item| item.length == 3}
-  end
-
-  def test_find_13
-    numbers = [2, 13, 19, 8, 3, 27]
-    found = numbers.find do |item|
-      item == 13
+  def test_count_count_words_with_e
+    words = ["thing", "phone", "bark", "belt", "shoe", "bath"]
+    tally = words.count do |word|
+      word.include?('e')
     end
-    found
+    assert_equal 3, tally
   end
 
-  def test_find_first_even_number
-    numbers = [3, 7, 13, 11, 10, 2, 17]
-    numbers.find{|item| item.even?}
+  def test_count_numbers_greater_than_17
+    numbers = [9, 18, 12, 17, 1, 3, 99]
+    tally = numbers.count do |number|
+      # Your code goes here
+    end
+    assert_equal 2, tally
   end
 
-  def test_find_first_multiple_of_3
-    numbers = [2, 8, 9, 27, 24, 5]
-    numbers.find{|item| item%3 ==0}
+  def test_count_words_that_are_uppercase
+    skip
+    words = ["trousers", "SOCKS", "sweater", "Cap", "SHOE", "TIE"]
+    # Your code goes here
+    assert_equal 3, tally
   end
 
-  def test_find_first_word_starting_with_q
-    words = ["weirdo", "quill", "fast", "quaint", "quitter", "koala"]
-    words.find{|item| item.start_with?("q")}
+  def test_count_words_ending_in_ing
+    skip
+    words = ["thought", "brake", "shin", "juice", "trash"]
+    # Your code goes here
+    assert_equal 0, tally
   end
 
-  def test_find_first_word_ending_with_er
-    words = ["biggest", "pour", "blight", "finger", "pie", "border"]
-    words.find{|item| item.end_with?("er")}
+  def test_count_even_numbers
+    skip
+    numbers = [9, 2, 1, 3, 18, 39, 71, 4, 6]
+    # Your code goes here
+    assert_equal 4, tally
   end
 
-  def test_find_first_number_greater_than_20
-    numbers = [1, 8, 19, 21, 29, 31, 34]
-    numbers.find{|item| item>=20}
+  def test_count_multiples_of_5
+    skip
+    numbers = [2, 5, 19, 25, 35, 67]
+    # Your code goes here
+    assert_equal 3, tally
+  end
+
+  def test_count_round_prices
+    skip
+    prices = [1.0, 3.9, 5.99, 18.5, 20.0]
+    # Your code goes here
+    assert_equal 2, tally
+  end
+
+  def test_count_four_letter_words
+    skip
+    words = ["bake", "bark", "corn", "apple", "wart", "bird", "umbrella", "fart"]
+    # Your code goes here
+    assert_equal 6, tally
   end
 
 end

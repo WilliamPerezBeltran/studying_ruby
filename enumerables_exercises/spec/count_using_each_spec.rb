@@ -1,34 +1,44 @@
 require "spec_helper"
 
-require_relative "../sort_by/sort_by_test.rb"
+require_relative "../count/count_using_each.rb"
 
-describe " test with sort_by" do 
-	context "sort_by" do 
-		let(:obje) {SortByTest.new}
+describe " test with count" do 
+	context "count_using_each" do 
+		let(:obj) {CountUsingEach.new}
 
-		it "test_sort_alphabetically" do 
-			expect(obje.test_sort_alphabetically).to match_array(["Bacon", "broccoli", "candy", "Carrots", "FISH"])
+		it "test_count_count_words_with_e" do 
+			expect(obj.test_count_count_words_with_e).to eq 3
 		end 
 
-		it "test_sort_alphabetically_by_last_letter" do 
-			expect(obje.test_sort_alphabetically_by_last_letter).to match_array ["sponge", "pill", "water", "glass", "box"]
+		it "test_count_numbers_greater_than_17" do 
+			expect(obj.test_count_numbers_greater_than_17).to eq 2
 		end 
 
-		it "test_sort_by_distance" do 
-			expect(obje.test_sort_by_distance).to match_array(["1cm", "2cm", "4cm", "9cm", "30cm"])
+		it "test_count_words_that_are_uppercase" do 
+			expect(obj.test_count_words_that_are_uppercase).to eq 3
 		end 
 
-		it "test_sort_by_length" do 
-			expect(obje.test_sort_by_length).to match_array(["bug", "heteromorph", "mathematical", "ancyloceratina", "bioengineering"])
+		it "test_count_words_ending_in_ing" do 
+			expect(obj.test_count_words_ending_in_ing).to eq 0
 		end 
 
-		it "test_sort_by_proximity_to_ten" do 
-			expect(obje.test_sort_by_proximity_to_ten).to match_array([10.01, 9.91, 11.0, 3.02, 17.9])
+		it "test_count_even_numbers" do 
+			expect(obj.test_count_even_numbers).to eq 4
 		end 
 
-		it "test_sort_by_number_of_cents" do 
-			expect(obje.test_sort_by_number_of_cents).to match_array([11.0, 10.01, 3.02, 7.9, 9.91])
+		it "test_count_multiples_of_5" do 
+			expect(obj.test_count_multiples_of_5).to eq 3
 		end 
+
+		it "test_count_round_prices" do 
+			expect(obj.test_count_round_prices).to eq 2
+		end 
+
+		it "test_count_four_letter_words" do 
+			expect(obj.test_count_four_letter_words).to eq 6
+		end 
+
+
 	end 
 end 
 
