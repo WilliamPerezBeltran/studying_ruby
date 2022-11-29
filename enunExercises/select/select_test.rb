@@ -26,8 +26,6 @@ class SelectTest
     words.select{|item| item.end_with?("e")}
    end
 
-
-
   def test_pick_words_ending_in_ing
     words = ["bring", "finger", "drought", "singing", "bingo", "purposeful"]
     words.select{|item| item.end_with?("ing")}

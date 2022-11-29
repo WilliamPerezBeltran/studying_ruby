@@ -48,11 +48,6 @@ describe "select pattern test" do
 		it "test_pick_hashes" do 
 			expect(obje.test_pick_hashes).to match_array([{:dog=>"fido"}, {:stuff=>"things"}])
 		end
-
-
-
-
-		
 	end 
 end 
 
