@@ -7,7 +7,7 @@ describe "xxx" do
 		let(:obj) {xxx.new}
 
 		it "xxx" do 
-			expect(obj.xxx).to eq "xxx"
+			expect(obj.xxx).to eq xxx
 		end 
 	end 
 end 
