@@ -3,10 +3,59 @@ Studying ruby is a recollection of information about ruby language with the only
 Have fun. 
 
 
+
+git clone git@github.com:turingschool/enums-exercises.git
+git clone git@github.com:dwrik/ruby-basics.git
+git clone git@github.com:TheOdinProject/ruby-exercises.git
+git clone git@github.com:TheOdinProject/ruby-exercises.git
+
+
+https://www.youtube.com/@maycode/playlists
+https://github.com/learn-co-students/ruby-enumerables-hash-practice-green-grocer-lab-london-web-082619
+https://github.com/learn-co-students
+https://github.com/learn-co-students/ruby-enumerables-hash-practice-green-grocer-lab-london-web-082619
+
+
+
+https://github.com/nardiyansah?tab=repositories
+https://github.com/nardiyansah?tab=repositories
+https://github.com/nardiyansah?tab=repositories
+https://github.com/nardiyansah?tab=repositories
+
+https://www.geeksforgeeks.org/matrix/
+
+https://www.youtube.com/@maycode/playlists
+https://www.youtube.com/@maycode/playlists
+https://www.youtube.com/@maycode/playlists
+https://www.youtube.com/@maycode/playlists
+https://www.youtube.com/@maycode/playlists
+https://www.youtube.com/@maycode/playlists
+
+https://www.geeksforgeeks.org/matrix/
+
+
+https://www.hackerrank.com/challenges/an-interesting-game-1/problem?h_r=next-challenge&h_v=zen
+
+
+https://www.hackerrank.com/challenges/an-interesting-game-1/problem?h_r=next-challenge&h_v=zen
+
+
+https://www.hackerrank.com/challenges/an-interesting-game-1/problem?h_r=next-challenge&h_v=zen
+
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=constructive-algorithms
+
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=constructive-algorithms
+
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=constructive-algorithms
+
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=constructive-algorithms
+
 ## source of information 
 
 
 - [Source of information](#Source)
+- [functional programming](https://womanonrails.com/functional-programming-ruby
+)
 
 ## Source
 
