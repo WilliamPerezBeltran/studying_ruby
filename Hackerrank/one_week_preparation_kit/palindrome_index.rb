@@ -110,3 +110,35 @@ p PalinIndex("aaa") #=> -1
 p PalinIndex("aba") #=> -1
 
 
+
+puts "-------"
+puts "-------"
+puts "-------"
+puts "-------"
+puts "-------"
+
+
+
+
+# def theBest(str)
+# 	return -1 if str == str.reverse
+# 	for x in (0..(str.length-1))
+# 		new_str = str[0...x] + str[x+1...str.length] 
+# 		new_str_reverse = new_str.reverse 
+# 		return x if new_str == new_str_reverse  
+# 	end
+# 	return -1 
+# end
+
+
+def theBest(str)
+	return -1 if str == str.reverse
+	(0..(str.length-1)).each{|x| return x if str[0...x] + str[x+1...str.length] == (str[0...x] + str[x+1...str.length]).reverse }
+	return -1 
+end
+
+p theBest("aaab") #=> 3
+p theBest("baa") #=> 0
+p theBest("aaa") #=> -1
+p theBest("aba") #=> -1
+
