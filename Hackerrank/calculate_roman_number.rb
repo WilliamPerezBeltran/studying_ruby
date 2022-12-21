@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/contests/modena-coding-april-2017/challenges/roman-number/problem
 
+require "pry"
+
 ROMAN_NUMBERS = {
   1000 => "M",
   900 => "CM",
@@ -21,6 +23,9 @@ def roman(number)
 
   ROMAN_NUMBERS.each do |value, letter|
     if value <= number
+      binding.pry
+      
+
       return (letter * (number / value)) << roman(number % value)
     end
   end
